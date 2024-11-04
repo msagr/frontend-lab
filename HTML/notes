@@ -1,0 +1,6 @@
+## HTML Shortcuts
+
+1. .text => <div class="text"></div>
+2. div*10 => creates 10 empty divs.
+3. div{Item $}*10 => creates 10 divs with item numbers written inside it.
+
